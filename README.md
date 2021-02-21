@@ -1,4 +1,4 @@
-# Resume template using React + Typescript
+# Resume template using React + Typescript + Material-UI
 
 So i was helping a friend with her resume and decided to share it
 
