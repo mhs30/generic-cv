@@ -4,7 +4,7 @@ So i was helping a friend with her resume and decided to share it
 
 # Demo
 
-[Create React App](https://mario-herrero-siles.000webhostapp.com/marina/).
+[Live demo](https://mario-herrero-siles.000webhostapp.com/marina/).
 
 ## Getting Started with Create React App
 
