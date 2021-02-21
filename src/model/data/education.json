@@ -1,0 +1,98 @@
+{
+  "studies": [
+    {
+      "key": 1,
+      "title": "Psychology Bachelor Degree",
+      "place": "Universidad de Granada",
+      "location": "",
+      "info": [
+        {
+          "key": 1,
+          "value": "Specialising in Social Psychology and Organizations (HR)."
+        },
+        {
+          "key": 2,
+          "value": "Exchange programmes: Barcelona / Nijmegen Holland, (Erasmus Programme)."
+        }
+      ]
+    },
+    {
+      "key": 2,
+      "title": "Master in Gestalt Psychotherapy and Emotional Intelligence",
+      "place": "Aula Gestalt Barcelona",
+      "location": "",
+      "info": []
+    },
+    {
+      "key": 3,
+      "title": "Creative problem solving & Innovation Consultant",
+      "place": "Actitud Creativa Spain",
+      "location": "",
+      "info": []
+    },
+    {
+      "key": 4,
+      "title": "Integrative Coach, ICF certificate",
+      "place": "Institut Integratiu Barcelona",
+      "location": "",
+      "info": []
+    },
+    {
+      "key": 5,
+      "title": "Design Thinking & Co Creation strategies",
+      "place": "Dingo Lab",
+      "location": "",
+      "info": []
+    },
+    {
+      "key": 6,
+      "title": "Impro, Clown and art performing Degree",
+      "place": "Factoria Dimo, Barcelona",
+      "location": "",
+      "info": []
+    },
+    {
+      "key": 7,
+      "title": "Soft skills & Change facilitator",
+      "place": "Accenture Academy",
+      "location": "",
+      "info": []
+    },
+    {
+      "key": 8,
+      "title": "Emotional Intelligence for Entrepreneurs",
+      "place": "Six seconds",
+      "location": "",
+      "info": []
+    },
+    {
+      "key": 9,
+      "title": "U Theory facilitator course “ Leading from the future”",
+      "place": "Presencing Institute, MIT",
+      "location": "",
+      "info": []
+    }
+  ],
+  "languages": [
+    {
+      "key": 1,
+      "name": "Spanish",
+      "level": "Native"
+    },
+    {
+      "key": 2,
+      "name": "English",
+      "level": "Professional"
+    },
+    {
+      "key": 3,
+      "name": "Catalan",
+      "level": "Professional"
+    },
+    {
+      "key": 4,
+      "name": "Italian",
+      "level": "Professional"
+    }
+  ]
+}

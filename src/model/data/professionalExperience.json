@@ -1,0 +1,173 @@
+[
+  {
+    "key": 1,
+    "position": "Soft skills trainer, innovation & Career Coach",
+    "description": "",
+    "company": {
+      "name": "Freelance",
+      "logo": ""
+    },
+    "location": "Remotely Worldwide",
+    "dateRange": "2017 - today",
+    "duties": [
+      {
+        "key": 1,
+        "value": "Met with decision makers and defined participant`s training needs. Developed own MoveInOut training methodology based on “ learning by doing”,gamification and emotional intelligence techniques."
+      },
+      {
+        "key": 2,
+        "value": "Coaching and mentoring of individuals from business executives to communities at risk of exclusion to grow their careers partnering with different public and private institutions and NGOs. Women mentoring expert."
+      },
+      {
+        "key": 3,
+        "value": "Design and present effective training workshops and seminars including topics like: soft skills, change management, diversity & Inclusion, leadership,innovation & design thinking, emotional selling, remote working engagement. MBST or personal branding."
+      }
+    ]
+  },
+  {
+    "key": 2,
+    "position": "Innovation lead - Talent Acquisition",
+    "description": "Leading a rockstar team on the purpose of re-inventing the ways to attract and engage a high volume of talented diverse communities. Always focus on human centricity",
+    "company": {
+      "name": "Accenture",
+      "logo": "ACCENTURE"
+    },
+    "location": "Barcelona, Spain",
+    "dateRange": "November 2016 - December 2018",
+    "duties": [
+      {
+        "key": 1,
+        "value": "Applying Design Thinking and agile oriented ways of innovating to refine ideas into prototypes and final Wow candidates experiences."
+      },
+      {
+        "key": 2,
+        "value": "Creating a Track record of end-to-end solutions and products focus on talent attraction, employer branding and diversity/ inclusion mainly. More than 250 final products launched in Portugal and Spain. Conducting UX researches based on data analyst, benchmark studies, tech students focus groups, empathy methodologies, etc. From data to the Strategy mindset."
+      }
+    ]
+  },
+  {
+    "key": 3,
+    "position": "Senior Talent Acquisition and Diversity & Inclusion Lead",
+    "description": "Leading a high performance team to attract the best diverse talent for Accenture Spain. Specific tasks include",
+    "company": {
+      "name": "Accenture",
+      "logo": "ACCENTURE"
+    },
+    "location": "Barcelona, Spain",
+    "dateRange": "Sept 2013 - Nov 2016",
+    "duties": [
+      {
+        "key": 1,
+        "value": "Understanding recruiting demand and skills profiles within the area of responsibility and working as a HR Business Partner close with Strategy Managing directors across industries to deliver and retain top talent profiles."
+      },
+      {
+        "key": 2,
+        "value": "Professional online and offline training sessions to Recruiters and Hiring Managers on TA best practices."
+      },
+      {
+        "key": 3,
+        "value": "Constantly building and warming up communities of top talent professionals specifically with IT profiles."
+      },
+      {
+        "key": 4,
+        "value": "Identifying and attracting high volumes of candidates worldwide through specific sourcing strategies and relations with external and internal sourcing channels and specific data system trackings."
+      },
+      {
+        "key": 5,
+        "value": "Serving as a point of contact for stakeholder groups. Co creating the recruiting strategy, policies and procedures together with the Business team. Coaching them to improve the NPS and retention KPIs and decrease the rates of attrition."
+      },
+      {
+        "key": 6,
+        "value": "As the Diversity & Inclusion Recruiting Lead for our Geography my responsibilities include:"
+      },
+      {
+        "key": 7,
+        "value": "Innovate on ways to build a diverse talent pipeline and recruit in a variety of sources that target diverse audiences. Helping to create an ecosystem that develops, advances and retains diversity at all levels. Mainly focus on gender and people with disabilities recruitment and engagement."
+      },
+      {
+        "key": 8,
+        "value": "Drive, partner and collaborate with internal and external diversity groups to improve our understanding of the diversity talent market."
+      },
+      {
+        "key": 9,
+        "value": "Unconscious Bias Training design and delivery inhouse and externally. Permanently coaching leaders and employees on diversity and inclusion matters and policies."
+      },
+      {
+        "key": 10,
+        "value": "Act as an internally and externally-facing representative of Accenture in diversity and inclusive events."
+      },
+      {
+        "key": 11,
+        "value": "Provide relevant data, analysis and recommendations to guide decision-making related to I&D strategies."
+      }
+    ]
+  },
+  {
+    "key": 4,
+    "position": "Change management Consultant",
+    "description": "",
+    "company": {
+      "name": "Accenture",
+      "logo": "ACCENTURE"
+    },
+    "location": "Japan",
+    "dateRange": "August 2015 - November 2015",
+    "duties": [
+      {
+        "key": 1,
+        "value": "Working on an international assignment providing support to the Talent acquisition,Diversity and Employer Branding local teams through a Global-Agile HR transformation project."
+      }
+    ]
+  },
+  {
+    "key": 5,
+    "position": "Recruiting and Sourcing Specialist",
+    "description": "",
+    "company": {
+      "name": "Accenture",
+      "logo": "ACCENTURE"
+    },
+    "location": "Barcelona, Spain",
+    "dateRange": "November 2009 - September 2013",
+    "duties": [
+      {
+        "key": 1,
+        "value": "Leading the end to end recruitment process and employer branding strategy por Accenture Strategy and MBA expert profiles in Spain."
+      }
+    ]
+  },
+  {
+    "key": 6,
+    "position": "Graduate Recruiter",
+    "description": "",
+    "company": {
+      "name": "Accenture",
+      "logo": "ACCENTURE"
+    },
+    "location": "Barcelona, Spain",
+    "dateRange": "November 2007 - November 2009",
+    "duties": [
+      {
+        "key": 1,
+        "value": "Leading the Graduate and internship recruiting program."
+      }
+    ]
+  },
+  {
+    "key": 7,
+    "position": "Headhunter and Business Developer",
+    "description": "",
+    "company": {
+      "name": "Resourcing S.L.",
+      "logo": ""
+    },
+    "location": "London, UK",
+    "dateRange": "March 2007 - September 2007",
+    "duties": [
+      {
+        "key": 1,
+        "value": "Managing the sourcing strategy and recruitment process for international profiles within the Health Care sector."
+      }
+    ]
+  }
+]
