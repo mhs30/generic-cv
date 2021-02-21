@@ -1,4 +1,12 @@
-# Getting Started with Create React App
+# Resume template using React + Typescript
+
+So i was helping a friend with her resume and decided to share it
+
+# Demo
+
+[Create React App](https://mario-herrero-siles.000webhostapp.com/marina/).
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
